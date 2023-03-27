@@ -1,0 +1,9 @@
+D:\project VB.net\projecthitungimt\projecthitungimt\bin\Debug\projecthitungimt.exe
+D:\project VB.net\projecthitungimt\projecthitungimt\bin\Debug\projecthitungimt.pdb
+D:\project VB.net\projecthitungimt\projecthitungimt\bin\Debug\projecthitungimt.xml
+D:\project VB.net\projecthitungimt\projecthitungimt\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\project VB.net\projecthitungimt\projecthitungimt\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\project VB.net\projecthitungimt\projecthitungimt\obj\x86\Debug\projecthitungimt.vbproj.GenerateResource.Cache
+D:\project VB.net\projecthitungimt\projecthitungimt\obj\x86\Debug\projecthitungimt.exe
+D:\project VB.net\projecthitungimt\projecthitungimt\obj\x86\Debug\projecthitungimt.xml
+D:\project VB.net\projecthitungimt\projecthitungimt\obj\x86\Debug\projecthitungimt.pdb

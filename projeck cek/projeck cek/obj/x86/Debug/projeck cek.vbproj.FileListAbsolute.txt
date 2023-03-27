@@ -1,0 +1,9 @@
+D:\project VB.net\projeck cek\projeck cek\bin\Debug\projeck cek.exe
+D:\project VB.net\projeck cek\projeck cek\bin\Debug\projeck cek.pdb
+D:\project VB.net\projeck cek\projeck cek\bin\Debug\projeck cek.xml
+D:\project VB.net\projeck cek\projeck cek\obj\x86\Debug\WindowsApplication1.FormCek.resources
+D:\project VB.net\projeck cek\projeck cek\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\project VB.net\projeck cek\projeck cek\obj\x86\Debug\projeck cek.vbproj.GenerateResource.Cache
+D:\project VB.net\projeck cek\projeck cek\obj\x86\Debug\projeck cek.exe
+D:\project VB.net\projeck cek\projeck cek\obj\x86\Debug\projeck cek.xml
+D:\project VB.net\projeck cek\projeck cek\obj\x86\Debug\projeck cek.pdb

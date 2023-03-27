@@ -1,0 +1,9 @@
+D:\project VB.net\system_gaji\system_gaji\bin\Debug\system_gaji.exe
+D:\project VB.net\system_gaji\system_gaji\bin\Debug\system_gaji.pdb
+D:\project VB.net\system_gaji\system_gaji\bin\Debug\system_gaji.xml
+D:\project VB.net\system_gaji\system_gaji\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\project VB.net\system_gaji\system_gaji\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\project VB.net\system_gaji\system_gaji\obj\x86\Debug\system_gaji.vbproj.GenerateResource.Cache
+D:\project VB.net\system_gaji\system_gaji\obj\x86\Debug\system_gaji.exe
+D:\project VB.net\system_gaji\system_gaji\obj\x86\Debug\system_gaji.xml
+D:\project VB.net\system_gaji\system_gaji\obj\x86\Debug\system_gaji.pdb

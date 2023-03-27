@@ -1,0 +1,9 @@
+D:\project VB.net\perpusCRUD\perpusCRUD\bin\Debug\perpusCRUD.exe
+D:\project VB.net\perpusCRUD\perpusCRUD\bin\Debug\perpusCRUD.pdb
+D:\project VB.net\perpusCRUD\perpusCRUD\bin\Debug\perpusCRUD.xml
+D:\project VB.net\perpusCRUD\perpusCRUD\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\project VB.net\perpusCRUD\perpusCRUD\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\project VB.net\perpusCRUD\perpusCRUD\obj\x86\Debug\perpusCRUD.vbproj.GenerateResource.Cache
+D:\project VB.net\perpusCRUD\perpusCRUD\obj\x86\Debug\perpusCRUD.exe
+D:\project VB.net\perpusCRUD\perpusCRUD\obj\x86\Debug\perpusCRUD.xml
+D:\project VB.net\perpusCRUD\perpusCRUD\obj\x86\Debug\perpusCRUD.pdb
